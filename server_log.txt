@@ -1,0 +1,269 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[23:22:56] filterscripts = ""  (string)
+[23:22:56] Error: Your password must be changed from the default password, please change it.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[23:23:04] filterscripts = ""  (string)
+[23:23:04] 
+[23:23:04] Server Plugins
+[23:23:04] --------------
+[23:23:04]  Loading plugin: mysql
+[23:23:04]  >> plugin.mysql: R41-3 successfully loaded.
+[23:23:04]   Loaded.
+[23:23:04]  Loaded 1 plugins.
+
+[23:23:04] 
+[23:23:04] Filterscripts
+[23:23:04] ---------------
+[23:23:04]   Loaded 0 filterscripts.
+
+[23:23:04] Connection Established to 'localhost'
+[23:23:04] 
+----------------------------------
+[23:23:04]  Blank Gamemode by your name here
+[23:23:04] ----------------------------------
+
+[23:23:04] Number of vehicle models: 0
+[23:24:11] [connection] incoming connection: 127.0.0.1:54056 id: 0
+[23:24:12] [join] rydkyu has joined the server (0:127.0.0.1)
+[23:47:32] RCON (In-Game): Player #0 (rydkyu) has logged in.
+[23:47:38] RCON (In-Game): Player [rydkyu] sent command: gmx
+[23:47:50] Connection Established to 'localhost'
+[23:47:50] 
+----------------------------------
+[23:47:50]  Blank Gamemode by your name here
+[23:47:50] ----------------------------------
+
+[23:47:50] Number of vehicle models: 0
+[23:54:24] RCON (In-Game): Player [rydkyu] sent command: gmx
+[23:54:36] Connection Established to 'localhost'
+[23:54:36] 
+----------------------------------
+[23:54:36]  Blank Gamemode by your name here
+[23:54:36] ----------------------------------
+
+[23:54:36] Number of vehicle models: 0
+[00:00:07] RCON (In-Game): Player [rydkyu] sent command: gmx
+[00:00:19] Connection Established to 'localhost'
+[00:00:19] 
+----------------------------------
+[00:00:19]  Blank Gamemode by your name here
+[00:00:19] ----------------------------------
+
+[00:00:19] Number of vehicle models: 0
+[00:02:03] RCON (In-Game): Player [rydkyu] sent command: gmx
+[00:02:15] Connection Established to 'localhost'
+[00:02:15] 
+----------------------------------
+[00:02:15]  Blank Gamemode by your name here
+[00:02:15] ----------------------------------
+
+[00:02:15] Number of vehicle models: 0
+[00:02:19] Called Dialog =>  => ÿT
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:57:25] filterscripts = ""  (string)
+[22:57:25] 
+[22:57:25] Server Plugins
+[22:57:25] --------------
+[22:57:25]  Loading plugin: mysql
+[22:57:25]  >> plugin.mysql: R41-3 successfully loaded.
+[22:57:25]   Loaded.
+[22:57:25]  Loaded 1 plugins.
+
+[22:57:25] 
+[22:57:25] Filterscripts
+[22:57:25] ---------------
+[22:57:25]   Loaded 0 filterscripts.
+
+[22:57:26] Connection Established to 'localhost'
+[22:57:26] 
+----------------------------------
+[22:57:26]  Blank Gamemode by your name here
+[22:57:26] ----------------------------------
+
+[22:57:26] Number of vehicle models: 0
+[22:58:47] [connection] incoming connection: 127.0.0.1:52960 id: 0
+[22:58:47] [join] rydkyu has joined the server (0:127.0.0.1)
+[22:58:54] Called Dialog =>  => 
+[22:59:07] [part] rydkyu has left the server (0:1)
+Console input: exit
+[22:59:13] --- Server Shutting Down.
+[22:59:13] plugin.mysql: Unloading plugin...
+[22:59:13] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[23:03:37] filterscripts = ""  (string)
+[23:03:37] 
+[23:03:37] Server Plugins
+[23:03:37] --------------
+[23:03:37]  Loading plugin: mysql
+[23:03:37]  >> plugin.mysql: R41-3 successfully loaded.
+[23:03:37]   Loaded.
+[23:03:37]  Loaded 1 plugins.
+
+[23:03:37] 
+[23:03:37] Filterscripts
+[23:03:37] ---------------
+[23:03:37]   Loaded 0 filterscripts.
+
+[23:03:37] Connection Established to 'localhost'
+[23:03:37] 
+----------------------------------
+[23:03:37]  Blank Gamemode by your name here
+[23:03:37] ----------------------------------
+
+[23:03:37] Number of vehicle models: 0
+[23:04:16] [connection] incoming connection: 127.0.0.1:59127 id: 0
+[23:04:16] [join] rydkyu has joined the server (0:127.0.0.1)
+[23:04:17] Called Dialog =>  => 
+[23:04:43] RCON (In-Game): Player #0 (rydkyu) has logged in.
+[23:04:46] RCON (In-Game): Player [rydkyu] sent command: gmx
+[23:04:58] Connection Established to 'localhost'
+[23:04:58] 
+----------------------------------
+[23:04:58]  Blank Gamemode by your name here
+[23:04:58] ----------------------------------
+
+[23:04:58] Number of vehicle models: 0
+[23:05:00] Called Dialog =>  => 
+[23:11:03] RCON (In-Game): Player [rydkyu] sent command: gmx
+[23:11:15] Connection Established to 'localhost'
+[23:11:15] 
+----------------------------------
+[23:11:15]  Blank Gamemode by your name here
+[23:11:15] ----------------------------------
+
+[23:11:15] Number of vehicle models: 0
+[23:11:29] Called Dialog =>  => ÿÀ
+[23:14:41] RCON (In-Game): Player [rydkyu] sent command: gmx
+[23:14:53] Connection Established to 'localhost'
+[23:14:53] 
+----------------------------------
+[23:14:53]  Blank Gamemode by your name here
+[23:14:53] ----------------------------------
+
+[23:14:53] Number of vehicle models: 0
+[23:15:01] Called Dialog =>  => ÿÀ
+[23:21:04] RCON (In-Game): Player [rydkyu] sent command: gmx
+[23:21:16] Connection Established to 'localhost'
+[23:21:16] 
+----------------------------------
+[23:21:16]  Blank Gamemode by your name here
+[23:21:16] ----------------------------------
+
+[23:21:16] Number of vehicle models: 0
+[23:21:21] Called Dialog =>  => ÿD
+[23:21:25] Called Dialog =>  => ÿD
+[23:25:57] RCON (In-Game): Player [rydkyu] sent command: gmx
+[23:26:09] Connection Established to 'localhost'
+[23:26:09] 
+----------------------------------
+[23:26:09]  Blank Gamemode by your name here
+[23:26:09] ----------------------------------
+
+[23:26:09] Number of vehicle models: 0
+[23:26:12] Called Dialog =>  => ÿ¸
+[23:26:19] Called Dialog =>  => ÿ¸
+[23:26:19] Saved in database
+[23:27:45] RCON (In-Game): Player [rydkyu] sent command: gmx
+[23:27:57] Connection Established to 'localhost'
+[23:27:57] 
+----------------------------------
+[23:27:57]  Blank Gamemode by your name here
+[23:27:57] ----------------------------------
+
+[23:27:57] Number of vehicle models: 0
+[23:28:00] Called Dialog =>  => ÿ¸
+[23:28:00] Saved in database
+[23:29:15] RCON (In-Game): Player [rydkyu] sent command: gmx
+[23:29:27] Connection Established to 'localhost'
+[23:29:27] 
+----------------------------------
+[23:29:27]  Blank Gamemode by your name here
+[23:29:27] ----------------------------------
+
+[23:29:27] Number of vehicle models: 0
+[23:29:32] Called Dialog =>  => ÿ¸
+[23:29:32] Saved in database
+[23:33:16] RCON (In-Game): Player [rydkyu] sent command: gmx
+[23:33:28] Connection Established to 'localhost'
+[23:33:28] 
+----------------------------------
+[23:33:28]  Blank Gamemode by your name here
+[23:33:28] ----------------------------------
+
+[23:33:28] Number of vehicle models: 0
+[23:33:32] Called Dialog =>  => ÿd
+[23:33:32] Saved in database
+[23:34:32] RCON (In-Game): Player [rydkyu] sent command: gmx
+[23:34:44] Connection Established to 'localhost'
+[23:34:44] 
+----------------------------------
+[23:34:44]  Blank Gamemode by your name here
+[23:34:44] ----------------------------------
+
+[23:34:44] Number of vehicle models: 0
+[23:34:49] Called Dialog =>  => ÿd
+[23:34:49] Saved in database
+[23:36:09] [part] rydkyu has left the server (0:1)
+Console input: exit
+[23:36:14] --- Server Shutting Down.
+[23:36:14] plugin.mysql: Unloading plugin...
+[23:36:14] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[23:43:37] filterscripts = ""  (string)
+[23:43:37] 
+[23:43:37] Server Plugins
+[23:43:37] --------------
+[23:43:37]  Loading plugin: mysql
+[23:43:37]  >> plugin.mysql: R41-3 successfully loaded.
+[23:43:37]   Loaded.
+[23:43:37]  Loaded 1 plugins.
+
+[23:43:37] 
+[23:43:37] Filterscripts
+[23:43:37] ---------------
+[23:43:37]   Loaded 0 filterscripts.
+
+[23:43:38] SERVER: MySQL Connection was successful.
+[23:43:38] Script Base
+[23:43:38] Number of vehicle models: 0
+[23:43:38] plugin.bcrypt: Version check failed.
