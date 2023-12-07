@@ -1,6 +1,4 @@
-#define SERVER_HOSTNAME "localhost"
-#define SERVER_USERNAME "root"
-#define SERVER_PASSWORD ""
-#define SERVER_DATABASE "testing"
-
-#define BCRYPT_COST 12
+#define MYSQL_HOSTNAME "localhost"
+#define MYSQL_USERNAME "root"
+#define MYSQL_PASSWORD ""
+#define MYSQL_DATABASE "rydkyu"

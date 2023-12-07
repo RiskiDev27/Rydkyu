@@ -8,7 +8,7 @@
 
 main()
 {
-	print("Script Base");
+	print("[Script Base]");
 }
 
 #include "core/stock.pwn"
@@ -16,6 +16,7 @@ main()
 
 public OnGameModeInit()
 {
+	print("SCRIPT STARTED!");
 	db = mysql_connect(SERVER_HOSTNAME, SERVER_USERNAME, SERVER_PASSWORD, SERVER_DATABASE);
 	if ( db == MYSQL_INVALID_HANDLE || mysql_errno(db) != 0)
 	{
@@ -35,3 +36,15 @@ public OnPlayerConnect(playerid)
 	mysql_format(db, query, sizeof(query), "SELECT * FROM `account` WHERE `username` = '%e'", GetName(playerid));
 	mysql_tquery(db, query, "CheckAccount", "d", playerid);
 }
+
+public OnPlayerDisconnect(playerid)
+{
+	new query[200];
+	mysql_format(db, query, sizeof(query), "UPDATE `account` SET `posx` = '%f', `posy` = '%f', `posz` = '%f' WHERE `id` = '%d'", pData[playerid][pPosX], pData[playerid][pPosY], pData[playerid][pPosZ], pData[playerid][pID]);
+	mysql_query(db, query);
+	// return 1;
+	print("Database Saved!");
+	return 1;
+}
+
+

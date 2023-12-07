@@ -1,0 +1,1 @@
+[10:50:25] [plugins/mysql] error #1054 while executing query "UPDATE `account` SET `posx` = '0.000000', `posy` = '0.000000', `posz` = '0.000000' WHERE `id` = '5'": Unknown column 'posx' in 'field list'

@@ -1,15 +1,25 @@
-new 
-    MySQL: db,
-    bool: LoggedIn[MAX_PLAYERS]
-;
+new MySQL:db;
 
-enum playerdata
+enum
 {
-    pID,
-    pCash,
-    pKills,
-    pDeaths,
-    pName[MAX_PLAYER_NAME]
+    DIALOG_UNUSED,
+    DIALOG_LOGIN,
+    DIALOG_REGISTER
 };
 
-new pData[MAX_PLAYERS][playerdata];
+enum playerku
+{
+    pID,
+    pName[MAX_PLAYER_NAME],
+    pPass[68],
+    pSalt[16],
+    pLevel,
+    bool:IsLoggedIn,
+    Float:pPosX,
+    Float:pPosY,
+    Float:pPosZ,
+    Float:pPosA,
+    Float:pHealth,
+    Float:pArmour
+};
+new pData[MAX_PLAYERS][playerku];

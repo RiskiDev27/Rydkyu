@@ -267,3 +267,114 @@ v0.3.7-R3, (C)2005-2019 SA-MP Team
 [23:43:38] Script Base
 [23:43:38] Number of vehicle models: 0
 [23:43:38] plugin.bcrypt: Version check failed.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[23:44:13] filterscripts = ""  (string)
+[23:44:13] 
+[23:44:13] Server Plugins
+[23:44:13] --------------
+[23:44:13]  Loading plugin: mysql
+[23:44:13]  >> plugin.mysql: R41-3 successfully loaded.
+[23:44:13]   Loaded.
+[23:44:13]  Loading plugin: bcrypt-samp
+[23:44:13]   plugin.bcrypt v2.2.3 was loaded.
+[23:44:13]   plugin.bcrypt: 4 cores detected, 3 threads will be used.
+[23:44:13]   Loaded.
+[23:44:13]  Loaded 2 plugins.
+
+[23:44:14] 
+[23:44:14] Filterscripts
+[23:44:14] ---------------
+[23:44:14]   Loaded 0 filterscripts.
+
+[23:44:14] SERVER: MySQL Connection was successful.
+[23:44:14] Script Base
+[23:44:14] Number of vehicle models: 0
+[23:44:14] plugin.bcrypt: Version check failed.
+Console input: gmx
+[23:52:23] SERVER: MySQL Connection was successful.
+[23:52:23] Script Base
+[23:52:23] Number of vehicle models: 0
+[23:52:23] plugin.bcrypt: Version check failed.
+[23:52:53] [connection] incoming connection: 127.0.0.1:50130 id: 0
+[23:52:54] [join] rydkyu has joined the server (0:127.0.0.1)
+[23:53:01] [part] rydkyu has left the server (0:1)
+[23:53:31] [connection] incoming connection: 127.0.0.1:64235 id: 0
+[23:53:31] [join] rydkyu has joined the server (0:127.0.0.1)
+[00:00:44] RCON (In-Game): Player #0 (rydkyu) has logged in.
+[00:00:47] RCON (In-Game): Player [rydkyu] sent command: gmx
+[00:01:00] SERVER: MySQL Connection was successful.
+[00:01:00] Script Base
+[00:01:00] Number of vehicle models: 0
+[00:01:00] plugin.bcrypt: Version check failed.
+[00:01:39] [part] rydkyu has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[10:40:40] filterscripts = ""  (string)
+[10:40:40] 
+[10:40:40] Server Plugins
+[10:40:40] --------------
+[10:40:40]  Loading plugin: mysql
+[10:40:41]  >> plugin.mysql: R41-3 successfully loaded.
+[10:40:41]   Loaded.
+[10:40:41]  Loading plugin: bcrypt-samp
+[10:40:41]   plugin.bcrypt v2.2.3 was loaded.
+[10:40:41]   plugin.bcrypt: 4 cores detected, 3 threads will be used.
+[10:40:41]   Loaded.
+[10:40:41]  Loaded 2 plugins.
+
+[10:40:41] 
+[10:40:41] Filterscripts
+[10:40:41] ---------------
+[10:40:41]   Loaded 0 filterscripts.
+
+[10:40:42] SERVER: MySQL Connection was successful.
+[10:40:42] Script Base
+[10:40:42] Number of vehicle models: 0
+[10:40:42] plugin.bcrypt: Version check failed.
+[10:41:16] [connection] incoming connection: 127.0.0.1:49929 id: 0
+[10:41:16] [join] faex has joined the server (0:127.0.0.1)
+[10:41:36] [part] faex has left the server (0:1)
+[10:42:26] [connection] incoming connection: 127.0.0.1:58493 id: 0
+[10:42:26] [join] faex has joined the server (0:127.0.0.1)
+Console input: gmx
+[10:44:42] SERVER: MySQL Connection was successful.
+[10:44:42] Script Base
+[10:44:42] Number of vehicle models: 0
+[10:44:42] plugin.bcrypt: Version check failed.
+Console input: gmx
+[10:49:59] SCRIPT STARTED!
+[10:49:59] SERVER: MySQL Connection was successful.
+[10:49:59] Script Base
+[10:49:59] Number of vehicle models: 0
+[10:49:59] plugin.bcrypt: Version check failed.
+[10:50:25] Database Saved!
+[10:50:25] [part] faex has left the server (0:1)
+[10:52:27] [connection] incoming connection: 127.0.0.1:64657 id: 0
+[10:52:27] [join] faex has joined the server (0:127.0.0.1)
+[10:52:39] Database Saved!
+[10:52:39] [part] faex has left the server (0:1)
+Console input: gmx
+[10:55:23] SCRIPT STARTED!
+[10:55:23] SERVER: MySQL Connection was successful.
+[10:55:23] [Script Base]
+[10:55:23] Number of vehicle models: 0
+[10:55:23] plugin.bcrypt: Version check failed.
+[10:55:45] [connection] incoming connection: 127.0.0.1:64839 id: 0
+[10:55:46] [join] faex has joined the server (0:127.0.0.1)
+[10:56:03] Database Saved!
+[10:56:03] [part] faex has left the server (0:1)
